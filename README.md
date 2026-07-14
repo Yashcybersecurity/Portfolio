@@ -30,7 +30,7 @@ Welcome to my portfolio! This site showcases my projects, skills, and experience
 
 ## Contact
 
-If you have any questions or would like to discuss potential opportunities, please feel free to contact me through the portfolio site or directly via email at [uyaswant1@example.com].
+If you have any questions or would like to discuss potential opportunities, please feel free to contact me through the portfolio site or directly via email at [uyaswant1@gmail.com].
 
 
 ---
